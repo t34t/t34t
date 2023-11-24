@@ -1,7 +1,9 @@
 ### Hi, I am a cyber security enthusiast, welcome to share and learn 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t34t&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t34t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **t34t/t34t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
